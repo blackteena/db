@@ -1,105 +1,194 @@
 {
-    "posts": [
-      {
-        "id": 1,
-        "title": "Exploring the Grand Canyon",
-        "text": "Just came back from an amazing trip to the Grand Canyon. The views were breathtaking, and I highly recommend it to anyone who loves nature. Can't wait to go back again!",
-        "comments": [
-          "Wow, the Grand Canyon is definitely on my bucket list!",
-          "I've been there too! It's truly an unforgettable experience.",
-          "The photos you shared are incredible!"
-        ]
-      },
-      {
-        "id": 2,
-        "title": "Delicious Pasta Recipe",
-        "text": "I want to share my favorite pasta recipe with you all. It's a creamy garlic Parmesan pasta with grilled chicken. Trust me, it's absolutely divine!",
-        "comments": [
-          "I love pasta! Can't wait to try this recipe.",
-          "That sounds heavenly! Thanks for sharing.",
-          "I'm drooling just reading the description!"
-        ]
-      },
-      {
-        "id": 3,
-        "title": "Movie Recommendation: Inception",
-        "text": "If you haven't watched Inception yet, you're missing out. It's a mind-bending thriller directed by Christopher Nolan. Prepare to have your mind blown!",
-        "comments": [
-          "Inception is one of my all-time favorite movies!",
-          "Agreed! The concept and visual effects are mind-blowing.",
-          "I need to watch it again. Thanks for the reminder!"
-        ]
-      },
-      {
-        "id": 4,
-        "title": "New Album Release: 'Lover' by Taylor Swift",
-        "text": "Taylor Swift just released her latest album 'Lover.' It's filled with catchy tunes and heartfelt lyrics. I can't stop listening to it!",
-        "comments": [
-          "Taylor Swift never disappoints! Can't wait to listen to it.",
-          "I've been listening to it on repeat since it came out. So good!",
-          "Her songs always resonate with me. Excited to hear this album."
-        ]
-      },
-      {
-        "id": 5,
-        "title": "Hiking in the Swiss Alps",
-        "text": "Spent a week hiking in the Swiss Alps and it was a dream come true. The landscapes were breathtaking, and the fresh mountain air was invigorating. Highly recommend it!",
-        "comments": [
-          "I've always wanted to hike in the Swiss Alps. Must have been incredible!",
-          "The Swiss Alps are on my travel wishlist. Your photos are stunning.",
-          "I can imagine how serene and peaceful it must have been."
-        ]
-      },
-      {
-        "id": 6,
-        "title": "Thoughts on Artificial Intelligence",
-        "text": "Artificial intelligence has made significant advancements in recent years. It's both exciting and concerning to see how it's shaping our future. What are your thoughts on AI?",
-        "comments": [
-          "AI has the potential to revolutionize various industries.",
-          "I'm fascinated by AI, but I also worry about ethical implications.",
-          "It's a double-edged sword. We need to tread carefully."
-        ]
-      },
-      {
-        "id": 7,
-        "title": "Book Recommendation: 'Educated' by Tara Westover",
-        "text": "I recently finished reading 'Educated' by Tara Westover, and it's a remarkable memoir. It's a story of resilience, self-discovery, and the power of education. Highly recommend it!",
-        "comments": [
-          "I loved 'Educated'! Such an inspiring and thought-provoking book.",
-          "This book has been on my to-read list for a while. Can't wait to start.",
-          "Thanks for the recommendation! I'll add it to my reading list."
-        ]
-      },
-      {
-        "id": 8,
-        "title": "Tips for Productivity",
-        "text": "Struggling with productivity lately? Here are a few tips that have helped me: prioritize tasks, set specific goals, take regular breaks, and eliminate distractions. Hope they work for you too!",
-        "comments": [
-          "Thanks for the tips! I really need to boost my productivity.",
-          "I'll try incorporating these tips into my routine. Thanks!",
-          "Eliminating distractions is key for me. Great advice!"
-        ]
-      },
-      {
-        "id": 9,
-        "title": "Impressive Art Exhibition",
-        "text": "Visited an art exhibition yesterday and was blown away by the talent on display. It's amazing how artists can evoke emotions and tell stories through their work. Truly inspiring!",
-        "comments": [
-          "Art has a way of touching our souls. Glad you had a great experience!",
-          "I love visiting art exhibitions. It's a feast for the senses.",
-          "Any standout artists or pieces you'd recommend checking out?"
-        ]
-      },
-      {
-        "id": 10,
-        "title": "Delicious Street Food in Bangkok",
-        "text": "If you're ever in Bangkok, make sure to try the street food. The flavors are incredible! From pad Thai to mango sticky rice, your taste buds will thank you.",
-        "comments": [
-          "Thai street food is the best! Can't wait to visit Bangkok.",
-          "I miss the street food from my trip to Thailand. So delicious!",
-          "I'm drooling just thinking about it. Thanks for the recommendation!"
-        ]
-      }
-    ]
-  }
-  
+  "posts": [
+    {
+      "id": 1,
+      "title": "Exploring the Grand Canyon",
+      "text": "Just came back from an amazing trip to the Grand Canyon. The views were breathtaking, and I highly recommend it to anyone who loves nature. Can't wait to go back again!",
+      "comments": [
+        {
+          "text": "Wow, the Grand Canyon is definitely on my bucket list!",
+          "email": "john@example.com"
+        },
+        {
+          "text": "I've been there too! It's truly an unforgettable experience.",
+          "email": "jane@example.com"
+        },
+        {
+          "text": "The photos you shared are incredible!",
+          "email": "sam@example.com"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Delicious Pasta Recipe",
+      "text": "I want to share my favorite pasta recipe with you all. It's a creamy garlic Parmesan pasta with grilled chicken. Trust me, it's absolutely divine!",
+      "comments": [
+        {
+          "text": "I love pasta! Can't wait to try this recipe.",
+          "email": "emily@example.com"
+        },
+        {
+          "text": "That sounds heavenly! Thanks for sharing.",
+          "email": "alex@example.com"
+        },
+        {
+          "text": "I'm drooling just reading the description!",
+          "email": "david@example.com"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Movie Recommendation: Inception",
+      "text": "If you haven't watched Inception yet, you're missing out. It's a mind-bending thriller directed by Christopher Nolan. Prepare to have your mind blown!",
+      "comments": [
+        {
+          "text": "Inception is one of my all-time favorite movies!",
+          "email": "sarah@example.com"
+        },
+        {
+          "text": "Agreed! The concept and visual effects are mind-blowing.",
+          "email": "michael@example.com"
+        },
+        {
+          "text": "I need to watch it again. Thanks for the reminder!",
+          "email": "olivia@example.com"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "New Album Release: 'Lover' by Taylor Swift",
+      "text": "Taylor Swift just released her latest album 'Lover.' It's filled with catchy tunes and heartfelt lyrics. I can't stop listening to it!",
+      "comments": [
+        {
+          "text": "Taylor Swift never disappoints! Can't wait to listen to it.",
+          "email": "ben@example.com"
+        },
+        {
+          "text": "I've been listening to it on repeat since it came out. So good!",
+          "email": "jessica@example.com"
+        },
+        {
+          "text": "Her songs always resonate with me. Excited to hear this album.",
+          "email": "ryan@example.com"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Hiking in the Swiss Alps",
+      "text": "Spent a week hiking in the Swiss Alps and it was a dream come true. The landscapes were breathtaking, and the fresh mountain air was invigorating. Highly recommend it!",
+      "comments": [
+        {
+          "text": "I've always wanted to hike in the Swiss Alps. Must have been incredible!",
+          "email": "laura@example.com"
+        },
+        {
+          "text": "The Swiss Alps are on my travel wishlist. Your photos are stunning.",
+          "email": "mark@example.com"
+        },
+        {
+          "text": "I can imagine how serene and peaceful it must have been.",
+          "email": "natalie@example.com"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Thoughts on Artificial Intelligence",
+      "text": "Artificial intelligence has made significant advancements in recent years. It's both exciting and concerning to see how it's shaping our future. What are your thoughts on AI?",
+      "comments": [
+        {
+          "text": "AI has the potential to revolutionize various industries.",
+          "email": "peter@example.com"
+        },
+        {
+          "text": "I'm fascinated by AI, but I also worry about ethical implications.",
+          "email": "lily@example.com"
+        },
+        {
+          "text": "It's a double-edged sword. We need to tread carefully.",
+          "email": "robert@example.com"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Book Recommendation: 'Educated' by Tara Westover",
+      "text": "I recently finished reading 'Educated' by Tara Westover, and it's a remarkable memoir. It's a story of resilience, self-discovery, and the power of education. Highly recommend it!",
+      "comments": [
+        {
+          "text": "I loved 'Educated'! Such an inspiring and thought-provoking book.",
+          "email": "sophia@example.com"
+        },
+        {
+          "text": "This book has been on my to-read list for a while. Can't wait to start.",
+          "email": "william@example.com"
+        },
+        {
+          "text": "Thanks for the recommendation! I'll add it to my reading list.",
+          "email": "emma@example.com"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Tips for Productivity",
+      "text": "Struggling with productivity lately? Here are a few tips that have helped me: prioritize tasks, set specific goals, take regular breaks, and eliminate distractions. Hope they work for you too!",
+      "comments": [
+        {
+          "text": "Thanks for the tips! I really need to boost my productivity.",
+          "email": "james@example.com"
+        },
+        {
+          "text": "I'll try incorporating these tips into my routine. Thanks!",
+          "email": "ava@example.com"
+        },
+        {
+          "text": "Eliminating distractions is key for me. Great advice!",
+          "email": "jack@example.com"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Impressive Art Exhibition",
+      "text": "Visited an art exhibition yesterday and was blown away by the talent on display. It's amazing how artists can evoke emotions and tell stories through their work. Truly inspiring!",
+      "comments": [
+        {
+          "text": "Art has a way of touching our souls. Glad you had a great experience!",
+          "email": "noah@example.com"
+        },
+        {
+          "text": "I love visiting art exhibitions. It's a feast for the senses.",
+          "email": "mia@example.com"
+        },
+        {
+          "text": "Any standout artists or pieces you'd recommend checking out?",
+          "email": "ethan@example.com"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Delicious Street Food in Bangkok",
+      "text": "If you're ever in Bangkok, make sure to try the street food. The flavors are incredible! From pad Thai to mango sticky rice, your taste buds will thank you.",
+      "comments": [
+        {
+          "text": "Thai street food is the best! Can't wait to visit Bangkok.",
+          "email": "oliver@example.com"
+        },
+        {
+          "text": "I miss the street food from my trip to Thailand. So delicious!",
+          "email": "sophie@example.com"
+        },
+        {
+          "text": "I'm drooling just thinking about it. Thanks for the recommendation!",
+          "email": "mason@example.com"
+        }
+      ]
+    }
+  ]
+}
