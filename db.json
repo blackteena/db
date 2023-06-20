@@ -4,6 +4,7 @@
       "id": 1,
       "title": "Exploring the Grand Canyon",
       "text": "Just came back from an amazing trip to the Grand Canyon. The views were breathtaking, and I highly recommend it to anyone who loves nature. Can't wait to go back again!",
+      "author": "John Smith",
       "comments": [
         {
           "text": "Wow, the Grand Canyon is definitely on my bucket list!",
@@ -23,6 +24,7 @@
       "id": 2,
       "title": "Delicious Pasta Recipe",
       "text": "I want to share my favorite pasta recipe with you all. It's a creamy garlic Parmesan pasta with grilled chicken. Trust me, it's absolutely divine!",
+      "author": "Emily Johnson",
       "comments": [
         {
           "text": "I love pasta! Can't wait to try this recipe.",
@@ -42,6 +44,7 @@
       "id": 3,
       "title": "Movie Recommendation: Inception",
       "text": "If you haven't watched Inception yet, you're missing out. It's a mind-bending thriller directed by Christopher Nolan. Prepare to have your mind blown!",
+      "author": "Sarah Williams",
       "comments": [
         {
           "text": "Inception is one of my all-time favorite movies!",
@@ -61,6 +64,7 @@
       "id": 4,
       "title": "New Album Release: 'Lover' by Taylor Swift",
       "text": "Taylor Swift just released her latest album 'Lover.' It's filled with catchy tunes and heartfelt lyrics. I can't stop listening to it!",
+      "author": "Benjamin Adams",
       "comments": [
         {
           "text": "Taylor Swift never disappoints! Can't wait to listen to it.",
@@ -80,6 +84,7 @@
       "id": 5,
       "title": "Hiking in the Swiss Alps",
       "text": "Spent a week hiking in the Swiss Alps and it was a dream come true. The landscapes were breathtaking, and the fresh mountain air was invigorating. Highly recommend it!",
+      "author": "Sophia Miller",
       "comments": [
         {
           "text": "I've always wanted to hike in the Swiss Alps. Must have been incredible!",
@@ -99,6 +104,7 @@
       "id": 6,
       "title": "Thoughts on Artificial Intelligence",
       "text": "Artificial intelligence has made significant advancements in recent years. It's both exciting and concerning to see how it's shaping our future. What are your thoughts on AI?",
+      "author": "William Roberts",
       "comments": [
         {
           "text": "AI has the potential to revolutionize various industries.",
@@ -118,6 +124,7 @@
       "id": 7,
       "title": "Book Recommendation: 'Educated' by Tara Westover",
       "text": "I recently finished reading 'Educated' by Tara Westover, and it's a remarkable memoir. It's a story of resilience, self-discovery, and the power of education. Highly recommend it!",
+      "author": "Emma Thompson",
       "comments": [
         {
           "text": "I loved 'Educated'! Such an inspiring and thought-provoking book.",
@@ -137,6 +144,7 @@
       "id": 8,
       "title": "Tips for Productivity",
       "text": "Struggling with productivity lately? Here are a few tips that have helped me: prioritize tasks, set specific goals, take regular breaks, and eliminate distractions. Hope they work for you too!",
+      "author": "James Wilson",
       "comments": [
         {
           "text": "Thanks for the tips! I really need to boost my productivity.",
@@ -156,6 +164,7 @@
       "id": 9,
       "title": "Impressive Art Exhibition",
       "text": "Visited an art exhibition yesterday and was blown away by the talent on display. It's amazing how artists can evoke emotions and tell stories through their work. Truly inspiring!",
+      "author": "Olivia Clark",
       "comments": [
         {
           "text": "Art has a way of touching our souls. Glad you had a great experience!",
@@ -175,6 +184,7 @@
       "id": 10,
       "title": "Delicious Street Food in Bangkok",
       "text": "If you're ever in Bangkok, make sure to try the street food. The flavors are incredible! From pad Thai to mango sticky rice, your taste buds will thank you.",
+      "author": "Mason Anderson",
       "comments": [
         {
           "text": "Thai street food is the best! Can't wait to visit Bangkok.",
